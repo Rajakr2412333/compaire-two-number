@@ -1,6 +1,6 @@
 num=int(nput("Enter a number:"))
 num2=int(input("Enter second number:"))
 if num>num1:
-    print("num is greates")
+    print("num is greates",num)
 else:
-    print("num1 is greater than num")
+    print("num1 is greater than num",num1)
